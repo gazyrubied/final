@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Avatar",
+        "Year": "2009",
+        "Rated": "PG-13",
+        "Released": "18 Dec 2009",
+        "Runtime": "162 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "image": "images/avatar.jpg"
+    },
+    {
+        "title": "Doctor Strange",
+        "Year": "2016",
+        "Rated": "R",
+        "Released": "04 Nov 2016",
+        "Runtime": "122 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Scott Derrickson",
+        "Actors": "Rachel McAdams, Benedict Cumberbatch, Mads Mikkelsen, Tilda Swinton",
+        "image": "images/strange.jpg"
+    },
+    {
+        "title": "The Avengers",
+        "Year": "2012",
+        "Rated": "PG-13",
+        "Released": "04 May 2012",
+        "Runtime": "143 min",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "image": "images/avengers.jpg"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "Year": "2013",
+        "Rated": "R",
+        "Released": "25 Dec 2013",
+        "Runtime": "180 min",
+        "Genre": "Biography, Comedy, Crime",
+        "Director": "Martin Scorsese",
+        "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
+        "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
+        "image": "images/wolf.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2014",
+        "Runtime": "169 min",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan",
+        "Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+        "image": "images/interstellar.jpg"
+    }
+]
